@@ -36,6 +36,7 @@ function update(){
     updateSnake()
     updateFood()
     checkDeath()
+    setAttribute()
 }
 function draw(){
     gameBoard.innerHTML = ""
