@@ -63,10 +63,10 @@ export function snakeIntersection(){
    })
 
 }
-SnakeMove.addEventListener('click', toMove);
-SnakeMove.setAttribute('snakeBody', snakeElement)
+// SnakeMove.addEventListener('click', toMove);
+// SnakeMove.setAttribute('snakeBody', snakeElement)
 
-return SnakeMove;
+// return SnakeMove;
  
 
 
