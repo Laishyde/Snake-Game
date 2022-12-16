@@ -66,7 +66,7 @@ export function snakeIntersection(){
 SnakeMove.addEventListener('click', toMove);
 SnakeMove.setAttribute('snakeBody', snakeElement)
 
-return card;
+return SnakeMove;
  
 
 
